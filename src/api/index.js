@@ -1,0 +1,1 @@
+export const BASE_URL = "https://noroff-movie-catalogue.herokuapp.com/v1"
